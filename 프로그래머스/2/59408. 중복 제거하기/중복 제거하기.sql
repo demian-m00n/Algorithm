@@ -3,4 +3,4 @@ select
 from 
     ANIMAL_INS
 where
-    NAME is not null
+    NAME is not null;
